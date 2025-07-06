@@ -61,7 +61,8 @@ If you love this project, please consider giving it a star on GitHub ⭐. Feel f
 📧 Email: priyanka.tmsl2022@gmail.com
 
 ---
-
-Made with ❤️ by Priyanka Kumari
+<p align="center">
+Made with ❤️ by Priyanka Kumari 
+</p>
 
 ---
